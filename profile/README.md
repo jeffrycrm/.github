@@ -1,5 +1,5 @@
 ## Jeffry
-### Centralized Resource Management – A hub for managing enterprise assets, staff, and schedules.
+### Centralized Resource Management – A hub for managing enterprise assets and staff.
 Link: https://jeffrycrm.com/
 
 At our organization, we specialize in Centralized Resource Management (CRM), 
